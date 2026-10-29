@@ -1324,9 +1324,7 @@ button {
     accent-color: var(--color-verde-oscuro);
 }
 
-#btnConfirmacion2 {
-    display: none;
-}
+
 
 .whatsapp__icon {
     width: 25px;

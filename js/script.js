@@ -191,8 +191,8 @@ if (formPlaylist) {
 /* ----------------- confirmacion --------------------- */
 
 document.addEventListener("DOMContentLoaded", function () {
-    const recipientNumber1 = "543815497604";
-    const recipientNumber2 = "543816591298";
+    const recipientNumber1 = "543815497904";
+    const recipientNumber2 = "543814167131";
 
     function sendMessage(phoneNumber) {
         const userName = document.getElementById("userFullName").value.trim();
